@@ -120,8 +120,6 @@ Boxplot-based outlier checking
 
 Outlier capping and verification
 
-Additional insights can be added here as the EDA is expanded.
-
 🤖 Machine Learning Model
 
 A Logistic Regression classification model is trained to predict customer churn.
